@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppNotas", "AppNotas\AppNotas.csproj", "{EB818025-33C7-4C6D-9B04-3452001BAC10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB818025-33C7-4C6D-9B04-3452001BAC10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB818025-33C7-4C6D-9B04-3452001BAC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB818025-33C7-4C6D-9B04-3452001BAC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB818025-33C7-4C6D-9B04-3452001BAC10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2685C1C8-7D46-48D8-BC4A-6272F0A2E5DB}
+	EndGlobalSection
+EndGlobal
